@@ -1,0 +1,69 @@
+[
+    {
+      
+      "Title": "Wireless Mouse",
+      "price": 1200,
+      "description": "Ergonomic wireless mouse with 2.4 GHz connectivity",
+      "category": "Electronics"
+    },
+    {
+     
+      "Title": "Bluetooth Headphones",
+      "price": 2500,
+      "description": "Noise-cancelling over-ear headphones with Bluetooth 5.0",
+      "category": "Electronics"
+    },
+    {
+      
+      "Title": "Running Shoes",
+      "price": 3000,
+      "description": "Lightweight running shoes with breathable mesh",
+      "category": "Footwear"
+    },
+    {
+      "Title": "Smartwatch",
+      "price": 5000,
+      "description": "Water-resistant smartwatch with heart rate monitor",
+      "category": "Electronics"
+    },
+    {
+      
+      "Title": "Office Chair",
+      "price": 7000,
+      "description": "Ergonomic office chair with lumbar support",
+      "category": "Furniture"
+    },
+
+    {
+        
+        "Title": "Wireless Mouse",
+        "price": 1200,
+        "description": "Ergonomic wireless mouse with 2.4 GHz connectivity",
+        "category": "Electronics"
+      },
+      {
+        "Title": "Bluetooth Headphones",
+        "price": 2500,
+        "description": "Noise-cancelling over-ear headphones with Bluetooth 5.0",
+        "category": "Electronics"
+      },
+      {
+        "Title": "Running Shoes",
+        "price": 3000,
+        "description": "Lightweight running shoes with breathable mesh",
+        "category": "Footwear"
+      },
+      {
+       
+        "Title": "watch",
+        "price": 5000,
+        "description": "Water-resistant watch with heart rate monitor",
+        "category": "Electronics"
+      },
+      {
+        "Title": "Home Chair",
+        "price": 8000,
+        "description": "Ergonomic home chair with lumbar support",
+        "category": "Furniture"
+      }
+  ]
